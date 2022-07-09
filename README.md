@@ -2,7 +2,7 @@
 <br>
 <h1>
 To run this website  click on this link below <br>
-https://blue-sand-0ca91ca10.1.azurestaticapps.net/
+https://thankful-field-0442b5110.1.azurestaticapps.net/
 </h1>
 
 #  CU-RESTUARANT 
@@ -11,23 +11,19 @@ One of the most popular college resturant in the capital, CU resturant enjoys a 
 
 # Landing page : 
 
-![Screenshot from 2022-07-10 02-52-29](https://user-images.githubusercontent.com/85225156/178123104-8539f7da-db83-40e6-b3d7-215c32756e18.png)
+![Screenshot from 2022-07-10 02-59-34](https://user-images.githubusercontent.com/85225156/178123303-57819c3b-8799-4aff-b87f-85a9e3540ac0.png)
 
 # About page :
+![Screenshot from 2022-07-10 03-00-36](https://user-images.githubusercontent.com/85225156/178123326-bced3070-618b-4c8a-8640-4e023afa9c2a.png)
 
-![Screenshot from 2022-07-10 02-53-34](https://user-images.githubusercontent.com/85225156/178123116-63a4eb4e-786d-49a9-8181-6f8c65dbd740.png)
-
-# Services 
-
-![Screenshot from 2022-07-10 02-54-07](https://user-images.githubusercontent.com/85225156/178123130-034135c7-67ed-4ae6-9ef7-ad6ab543b8ce.png)
+# Service
+![Screenshot from 2022-07-10 03-02-04](https://user-images.githubusercontent.com/85225156/178123365-4fe02bf8-485a-4d6c-8c58-d1cddb05fd79.png)
 
 # Potfolio
-
-![Screenshot from 2022-07-10 02-54-50](https://user-images.githubusercontent.com/85225156/178123148-94d5e234-a6a6-4ae1-a73d-1683f8825855.png)
+![Screenshot from 2022-07-10 03-02-55](https://user-images.githubusercontent.com/85225156/178123376-905fae5e-79aa-491b-87a3-7ff710d6a9b5.png)
 
 # Contact Page 
-
-![Screenshot from 2022-07-10 02-55-14](https://user-images.githubusercontent.com/85225156/178123156-cc07d1d5-84af-417c-95a4-05df7a87cd56.png)
+![Screenshot from 2022-07-10 03-03-20](https://user-images.githubusercontent.com/85225156/178123401-2c6bb95b-9dec-459f-a8c8-cc07d6d3818e.png)
 
 <br>
 
