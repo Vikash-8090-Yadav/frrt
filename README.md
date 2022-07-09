@@ -30,7 +30,7 @@ One of the most popular Online **free** Theme downloader  in the capital,  Start
 # U CAN CHECK THE VIDEO FOR THIS PROJECT BY CLICKING ON THE LINK BELOW
 <br>
 
-# [Project video](https://youtu.be/AnqDyx7UWPk)
+# [Project video](https://youtube.com/shorts/s5DKyHz-EZw?feature=share)
 
 <br>
 
